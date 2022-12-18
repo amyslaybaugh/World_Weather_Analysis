@@ -1,7 +1,9 @@
 config.py
 API_practice.ipynb
 random_numbers.ipynb
-
+API_practice-checkpoint.ipynb
+Geoapify_Places_Search.ipynb
+VacationPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
